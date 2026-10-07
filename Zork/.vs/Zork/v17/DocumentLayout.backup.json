@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{3D0C535A-D4DE-4634-A0F1-4FE2B56F43BF}|Zork\\Zork.csproj|c:\\users\\colin\\downloads\\version control storeage\\gtp-lab6\\zork\\zork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D0C535A-D4DE-4634-A0F1-4FE2B56F43BF}|Zork\\Zork.csproj|solutionrelative:zork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C535A-D4DE-4634-A0F1-4FE2B56F43BF}|Zork\\Zork.csproj|c:\\users\\colin\\downloads\\version control storeage\\gtp-lab6\\zork\\zork\\assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C535A-D4DE-4634-A0F1-4FE2B56F43BF}|Zork\\Zork.csproj|solutionrelative:zork\\assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C535A-D4DE-4634-A0F1-4FE2B56F43BF}|Zork\\Zork.csproj|c:\\users\\colin\\downloads\\version control storeage\\gtp-lab6\\zork\\zork\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C535A-D4DE-4634-A0F1-4FE2B56F43BF}|Zork\\Zork.csproj|solutionrelative:zork\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0C535A-D4DE-4634-A0F1-4FE2B56F43BF}|Zork\\Zork.csproj|c:\\users\\colin\\downloads\\version control storeage\\gtp-lab6\\zork\\zork\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0C535A-D4DE-4634-A0F1-4FE2B56F43BF}|Zork\\Zork.csproj|solutionrelative:zork\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\Downloads\\Version Control Storeage\\GTP-Lab6\\Zork\\Zork\\Room.cs",
+              "RelativeDocumentMoniker": "Zork\\Room.cs",
+              "ToolTip": "C:\\Users\\colin\\Downloads\\Version Control Storeage\\GTP-Lab6\\Zork\\Zork\\Room.cs",
+              "RelativeToolTip": "Zork\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T17:47:18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Commands.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\Downloads\\Version Control Storeage\\GTP-Lab6\\Zork\\Zork\\Commands.cs",
+              "RelativeDocumentMoniker": "Zork\\Commands.cs",
+              "ToolTip": "C:\\Users\\colin\\Downloads\\Version Control Storeage\\GTP-Lab6\\Zork\\Zork\\Commands.cs",
+              "RelativeToolTip": "Zork\\Commands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T17:45:44.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assert.cs",
+              "DocumentMoniker": "C:\\Users\\colin\\Downloads\\Version Control Storeage\\GTP-Lab6\\Zork\\Zork\\Assert.cs",
+              "RelativeDocumentMoniker": "Zork\\Assert.cs",
+              "ToolTip": "C:\\Users\\colin\\Downloads\\Version Control Storeage\\GTP-Lab6\\Zork\\Zork\\Assert.cs",
+              "RelativeToolTip": "Zork\\Assert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T17:16:33.424Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "Zork\\Program.cs",
               "ToolTip": "C:\\Users\\colin\\Downloads\\Version Control Storeage\\GTP-Lab6\\Zork\\Zork\\Program.cs",
               "RelativeToolTip": "Zork\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCMAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAmwIUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T04:30:45.074Z",
               "EditorCaption": ""

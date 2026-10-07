@@ -1,0 +1,8 @@
+C:\Users\colin\Downloads\Version Control Storeage\GTP-Lab6\Zork\Zork\bin\Debug\Zork.exe.config
+C:\Users\colin\Downloads\Version Control Storeage\GTP-Lab6\Zork\Zork\bin\Debug\Zork.exe
+C:\Users\colin\Downloads\Version Control Storeage\GTP-Lab6\Zork\Zork\bin\Debug\Zork.pdb
+C:\Users\colin\Downloads\Version Control Storeage\GTP-Lab6\Zork\Zork\obj\Debug\Zork.csproj.AssemblyReference.cache
+C:\Users\colin\Downloads\Version Control Storeage\GTP-Lab6\Zork\Zork\obj\Debug\Zork.csproj.CoreCompileInputs.cache
+C:\Users\colin\Downloads\Version Control Storeage\GTP-Lab6\Zork\Zork\obj\Debug\Zork.exe
+C:\Users\colin\Downloads\Version Control Storeage\GTP-Lab6\Zork\Zork\obj\Debug\Zork.pdb
+C:\Users\colin\Downloads\Version Control Storeage\GTP-Lab6\Zork\Zork\obj\Debug\Zork.exe.config
